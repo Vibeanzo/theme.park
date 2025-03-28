@@ -4,13 +4,13 @@
     url(/css/addons/unraid/login-page/fallout/wallpaper/terminal2.jpg) center center/cover no-repeat fixed;
     --logo: url(/css/addons/unraid/login-page/fallout/logo/vault-tec_green.png) center no-repeat;
     --text-color: #82A7D6;
-    --input-color: #14F074;
-    --link-color: #14F074;
+    --input-color: #82A7D6;
+    --link-color: #82A7D6;
     --link-color-hover: #0C833D;
-    --case-color: #14F074;
-    --button-text-color: #14F074;
+    --case-color: #82A7D6;
+    --button-text-color: #82A7D6;
     --button-text-color-hover: #FFFFFF;
-    --button-color: #14F074;
+    --button-color: #82A7D6;
     --button-color2: #0C833D;
     --input-font: 'Share Tech Mono', monospace;
     --text-font: 'Share Tech Mono', monospace;
